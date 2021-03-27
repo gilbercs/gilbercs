@@ -2,7 +2,7 @@
 ## _Ola! Sou Gilber_  :wave:
 **if(codigo==help){**
 
-**println("De uma estrela")**
+**println("De uma estrela no repositorio")**
 
 **println("Agradeço por sua colaboração")**
 
