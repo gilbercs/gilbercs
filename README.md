@@ -6,8 +6,6 @@
 
 ### **println("Agradeço por sua colaboração")**
 
-### **println("Bons Estudo e sucesso")**
-
 ### **}else{**
 ### **println("Bons Estudo e sucesso")}**
 
