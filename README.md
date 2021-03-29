@@ -2,7 +2,7 @@
 ## _Ola! Sou Gilber_  :wave:
 ### **if(codigo.equals("ajudar você no seu trabalho")){**
 
-### **println("De uma estrela p/ repositorio")**
+### **println(+ "De uma estrela p/ repositorio")**
 
 ### **println("Agradeço por sua colaboração")**
 
