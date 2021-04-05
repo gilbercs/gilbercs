@@ -4,11 +4,8 @@
 
 ### **println("De uma estrela p/ repositorio")**
 
-### **println("Agradeço por sua colaboração")**
-
 ### **}else{**
-### **println("Bons Estudo e sucesso")}**
+### **println("Obrigado pela visita")}**
 
 
-![download](https://user-images.githubusercontent.com/72363971/112735962-fc0ddf80-8f2d-11eb-9eb6-3ebdbaa07ece.jpg).
 
