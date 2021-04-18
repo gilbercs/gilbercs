@@ -1,11 +1,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gilbercs)
 ## _Ola! Sou Gilber_  :wave:
-### **if(codigo.equals("ajudar você no seu trabalho")){**
 
-### **println("De uma estrela p/ repositorio")**
+Bachelor in Information System and currently a student in programming for mobile devices.
 
-### **}else{**
-### **println("Obrigado pela visita")}**
-
-
+IDE used by in studies
+Android Studio, Apache NetBeans, Sublime Text, Workbench Mysql, 
 
