@@ -3,7 +3,5 @@
 
 Bachelor in Information System and currently a student in programming for mobile devices.
 
-IDE used by in studies
 
-Android Studio, Apache NetBeans, Sublime Text, Workbench Mysql, 
 
