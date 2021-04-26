@@ -11,5 +11,7 @@ Assuntos de Dev que podem ser inportante para você.
 
 [Apreenda a criar Apps Reais](https://go.hotmart.com/N48358877R)
 
+[Aprenda criar aplicativos para Android e iOS](https://go.hotmart.com/I52730021Q)
+
 
 
