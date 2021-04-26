@@ -5,7 +5,7 @@ Bachelor in Information System
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gilbercs)
 
 
-Assuntos de Dev que podem ser inportante para você.
+Assuntos importante para programadores.
 
 [Conteúdos para os desenvolvedores profissionais](https://go.hotmart.com/X52121343L)
 
