@@ -2,9 +2,6 @@
 
 Código fonte encontrados aqui são ideal para um ponto de partida para outros projetos, trechos de códigos podem ser aproveitados. Fique a vontade para abrir o projeto explorar, estudar, modificar, aperfeiçoar...
 
-### Site:
-[www.gilbercs.com.br](www.gilbercs.com.br)
-
 ### Contato:
 Celular: (92) 993124740.
 
