@@ -1,19 +1,12 @@
-## _Ola! Sou Gilber_  :wave:
+## _Ola! Caro Programadores_  :wave: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gilbercs)
 
-Bachelor in Information System
+Código fonte encontrados aqui são ideal para um ponto de partida para outros projetos, trechos de códigos podem ser aproveitados. Fique a vontade para abrir o projeto eexplorar, estudar, modificar, aperfeiçoar até mesmo usa-lo conforme sua nescessidade...
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gilbercs)
-
-Fique a vontade para conhecer meus repositório, baixar o código fonte fazer as alterações conforme sua nescessidade, caso algun dos trabalhos tenha lhe ajudado de alguma maneira deixe um gostei, assim você estará contribuindo com meu trabalho.
-
-Desde já agradeço, fique
-
-Site:
+### Site:
 [www.gilbercs.com.br](www.gilbercs.com.br)
 
-Contato:
+### Contato:
 Celular: (92) 993124740.
-
-Email: gilbercs@hotmail.com
+Email: gilbercs@hotmail.com.
 
 
