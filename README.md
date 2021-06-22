@@ -4,7 +4,9 @@ Bachelor in Information System
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gilbercs)
 
-Repositório onde coloco alguns dos meus trabalhos.
+Fique a vontade para conhecer meus repositório, baixar o código fonte fazer as alterações conforme sua nescessidade, caso algun dos trabalhos tenha lhe ajudado de uma maneira deixe um gostei, assim você estará contribuindo com meu trabalho.
+
+Desde já agradeço, fique
 
 Site:
 [www.gilbercs.com.br](www.gilbercs.com.br)
