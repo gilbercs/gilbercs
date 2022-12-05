@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Ola! Tudo Bem? Caros Programadores 👋 visitors
+Código fonte encontrados aqui são ideal para um ponto de partida para outros projetos, trechos de códigos podem ser aproveitados. Fique a vontade para abrir o projeto explorar, estudar, modificar e aperfeiçoar...
+
+Caso algum repositório lhe ajudar! certifique-se de dar uma estrela 🌟, dessa forma, outras pessoas podem encontrá-lo e se beneficiar também!
+
+Contato:
+Email: gilbercs@hotmail.com.
