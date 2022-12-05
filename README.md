@@ -5,7 +5,8 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tutorial_code)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gilbercs)
 
-![Gilber GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbercs&show_icons=true&theme=transparent)
+[![Gilber](https://github-readme-stats.vercel.app/api?username=gilbercs&show_icons=true&theme=transparent)](https://github.com/gilbercs/gilbercs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbercs)](https://github.com/gilbercs/gilbercs)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbercs&theme=transparent)](https://github.com/gilbercs/gilbercs)
+
 
