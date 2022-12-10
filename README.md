@@ -8,7 +8,7 @@
 | <a href="https://github.com/gilbercs/gilbercs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbercs&show_icons=true&include_all_commits=true&theme=&hide_border=true" alt="Gilber Github Status"/></a> | <a href="https://github.com/gilbercs/gilbercs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbercs&hide_border=true" alt="Gilber Github Status"/></a> |
 | ----------- | -------------- |
 
-Código fonte encontrados aqui são ideal para um ponto de partida para outros projetos. Trechos de códigos podem ser aproveitados. Fique a vontade para explorar os projetos, estudar, modificar e aperfeiçoar...
+Fique a vontade para explorar os projetos, estudar, modificar e aperfeiçoar
 
 
 Caso algum repositório lhe ajudar! certifique-se de dar uma estrela 🌟, dessa forma, você vai está contribuindo com outras pessoas também!
