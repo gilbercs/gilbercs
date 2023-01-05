@@ -8,10 +8,10 @@
 | <a href="https://github.com/gilbercs/gilbercs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbercs&show_icons=true&include_all_commits=true&theme=&hide_border=true" alt="Gilber Github Status"/></a> | <a href="https://github.com/gilbercs/gilbercs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbercs&hide_border=true" alt="Gilber Github Status"/></a> |
 | ----------- | -------------- |
 
-Fique a vontade para explorar os projetos, estudar, modificar e aperfeiçoar e compartilhar para ajudar outros desenvolvedore 👍
+Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e compartilhar para ajudar outros desenvolvedores 👍
 
 
-Contato
+Meu Contato
 
 [![medium](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=92993124740)
 
