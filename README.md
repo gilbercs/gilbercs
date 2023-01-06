@@ -13,7 +13,7 @@ Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e co
 ou
 Faça uma doação em qual quer valor!!
 
-![https://pag.ae/7Y_oN2HTJ](https://user-images.githubusercontent.com/72363971/211105996-6b34be98-38a8-4bcf-a1a2-ca73c4ade277.gif)
+[![pagseguro](https://user-images.githubusercontent.com/72363971/211105996-6b34be98-38a8-4bcf-a1a2-ca73c4ade277.gif)](https://pag.ae/7Y_oN2HTJ)
 
 Meu Contato
 
