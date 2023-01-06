@@ -10,6 +10,10 @@
 
 Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e compartilhar para ajudar outros desenvolvedores 👍
 
+ou
+Faça uma doação em qual quer valor!!
+
+https://pag.ae/7Y_oN2HTJ
 
 Meu Contato
 
