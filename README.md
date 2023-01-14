@@ -11,8 +11,6 @@
 Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e compartilhar para ajudar outros desenvolvedores 👍
 
 Gostou dos projetos deixei um estrela no Repositorio vai ajudar muito...
-ou
-Faça uma pequena doação em qual quer valor!! 
 
 Meu Contato
 
