@@ -2,7 +2,13 @@
 ##### Resumo:
 Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e compartilhar para ajudar outros desenvolvedores.
 #### Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbercs&langs_count=10)](https://github.com/gilbercs/github-readme-stats)
+<a href="https://github.com/gilbercs/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbercs&langs_count=10"/>
+  </a>
+  <a href="https://github.com/gilbercs/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbercs&show_icons=true"/>
+  </a>
+  
 ##### Habilidades principais:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -28,5 +34,4 @@ Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e co
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gilbercs)
 ##### Contato:
 [![medium](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=92993124740)
-![Snake animation](https://github.com/gilbercs/gilbercs/blob/output/github-contribution-grid-snake.svg)
 
