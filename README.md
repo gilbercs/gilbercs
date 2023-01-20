@@ -13,9 +13,9 @@ Gostou dos projetos deixei um estrela no Repositorio vai ajudar muito...
 
 Meu Contato
 
-[![medium](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=92993124740)
+[![medium](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=92993124740).
 
-<!--Top Repositorio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gilbercs&repo=cadastroClientes)](https://github.com/anuraghazra/github-readme-stats)
--->
+Siga-me no LinkedIn.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gilbercs)
 
