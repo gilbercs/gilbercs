@@ -1,6 +1,8 @@
 ### Hi there 👋 Sou Gilber!
 ##### Resumo:
-Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e compartilhar para ajudar outros desenvolvedores
+Fique a vontade para explorar os projetos, estudar, modificar, aperfeiçoar e compartilhar para ajudar outros desenvolvedores.
+#### Linguagens
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbercs&langs_count=10)](https://github.com/gilbercs/github-readme-stats)
 ##### Habilidades principais:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
