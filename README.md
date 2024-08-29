@@ -1,10 +1,8 @@
 ### Hi there 👋 Sou Gilber!
 ##### Resumo:
-Bem-vindo ao meu perfil no GitHub, onde minha paixão pela tecnologia móvel se traduz em projetos de desenvolvimento de aplicativos inovadores. Sou um desenvolvedor de Sistema de Informação, apaixonado por criar soluções móveis que tornam a vida mais fácil e divertida.
 
-Se você está interessado em colaborar, aprender ou apenas explorar projetos de desenvolvimento de aplicativos móveis, siga meu perfil. Estou empolgado em compartilhar meu amor pela tecnologia móvel, colaborar em projetos emocionantes e continuar minha jornada no mundo dos aplicativos. Juntos, podemos criar aplicativos que fazem a diferença no mundo mobile.
 
-Explore meus repositórios e fique à vontade para entrar em contato para qualquer pergunta, feedback ou oportunidade de colaboração. Vamos inovar no universo dos aplicativos móveis juntos!
+Fique à vontade para explorar os repositorio ou entrar em contato para qualquer pergunta, feedback ou oportunidade de colaboração. Vamos inovar no universo dos aplicativos móveis juntos!
 
 #### Linguagens
 <a href="https://github.com/gilbercs/github-readme-stats">
